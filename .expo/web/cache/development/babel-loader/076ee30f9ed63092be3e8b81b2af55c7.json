@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { make as default } from \"./src/App.bs.js\";","map":{"version":3,"sources":["/private/tmp/my-rescript-native/App.js"],"names":["make","default"],"mappings":"AAAA,SAASA,IAAI,IAAIC,OAAjB","sourcesContent":["export { make as default } from \"./src/App.bs.js\";\n"]},"metadata":{},"sourceType":"module"}
